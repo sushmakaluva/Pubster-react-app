@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pubster-react-app/static/css/main.718ea7af.chunk.css",
+    "main.js": "/pubster-react-app/static/js/main.0ef84fd6.chunk.js",
+    "main.js.map": "/pubster-react-app/static/js/main.0ef84fd6.chunk.js.map",
+    "runtime-main.js": "/pubster-react-app/static/js/runtime-main.b61a5f68.js",
+    "runtime-main.js.map": "/pubster-react-app/static/js/runtime-main.b61a5f68.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/pubster-react-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a059c1cc.chunk.js": "/pubster-react-app/static/js/2.a059c1cc.chunk.js",
+    "static/js/2.a059c1cc.chunk.js.map": "/pubster-react-app/static/js/2.a059c1cc.chunk.js.map",
+    "index.html": "/pubster-react-app/index.html",
+    "precache-manifest.5601dd5f4efe6c8faa3a64cff7792417.js": "/pubster-react-app/precache-manifest.5601dd5f4efe6c8faa3a64cff7792417.js",
+    "service-worker.js": "/pubster-react-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/pubster-react-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.718ea7af.chunk.css.map": "/pubster-react-app/static/css/main.718ea7af.chunk.css.map",
+    "static/js/2.a059c1cc.chunk.js.LICENSE.txt": "/pubster-react-app/static/js/2.a059c1cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b61a5f68.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a059c1cc.chunk.js",
+    "static/css/main.718ea7af.chunk.css",
+    "static/js/main.0ef84fd6.chunk.js"
+  ]
+}
